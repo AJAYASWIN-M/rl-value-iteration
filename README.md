@@ -51,11 +51,14 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 
+
+### Policy:
 <img width="553" height="206" alt="image" src="https://github.com/user-attachments/assets/886c5cfd-00e9-4687-8b2d-9455ea73497d" />
 
+### Pobability Success :
 <img width="841" height="80" alt="image" src="https://github.com/user-attachments/assets/ee1ed8f3-6128-4251-ab52-2817d98b50b8" />
 
-
+### State Value Function:
 <img width="641" height="174" alt="image" src="https://github.com/user-attachments/assets/7e7a1be0-8708-48b6-b2a4-f90b3405501d" />
 
 
